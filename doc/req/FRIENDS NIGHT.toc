@@ -1,0 +1,16 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Requerimentos funcionales}{2}{}%
+\contentsline {section}{\numberline {2}Requerimentos no funcionales}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Requerimentos de usabilidad: }{3}{}%
+\contentsline {subsection}{\numberline {2.2}Requerimentos de desarrollo: }{3}{}%
+\contentsline {subsection}{\numberline {2.3}Requerimentos de entorno/de software: }{4}{}%
+\contentsline {subsection}{\numberline {2.4}Requerimentos de eficiencia: }{4}{}%
+\contentsline {subsection}{\numberline {2.5}Requerimentos de disponibilidad: }{4}{}%
+\contentsline {subsection}{\numberline {2.6}Requerimentos de mantenimiento: }{4}{}%
+\contentsline {subsection}{\numberline {2.7}Requerimentos regulatorios: }{4}{}%
+\contentsline {subsection}{\numberline {2.8}Requerimentos eticos }{4}{}%
+\contentsline {section}{\numberline {3}Diagrama de casos de uso}{4}{}%
+\contentsline {section}{\numberline {4}Diagrama de entidad relacion }{5}{}%
+\contentsline {section}{\numberline {5}Diagrama de componentes}{6}{}%
+\contentsline {section}{\numberline {6}Diagrama de clases }{7}{}%
+\contentsline {section}{\numberline {7}Diagramas de secuencia:}{8}{}%
