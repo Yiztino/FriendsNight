@@ -1,0 +1,31 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {part}{I\hspace {1em}Introducción}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}Descripción del proyecto}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Entender al usuario}{3}{chapter.2}%
+\contentsline {part}{II\hspace {1em}Requerimentos y diagramas}{10}{part.2}%
+\contentsline {chapter}{\numberline {3}Requerimentos funcionales}{11}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Requerimentos no funcionales}{13}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Requerimentos de usabilidad: }{13}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Requerimentos de desarrollo: }{13}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Requerimentos de entorno/de software: }{13}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Requerimentos de eficiencia: }{14}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Requerimentos de disponibilidad: }{14}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Requerimentos de mantenimiento: }{14}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Requerimentos regulatorios: }{14}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Requerimentos éticos }{14}{section.4.8}%
+\contentsline {chapter}{\numberline {5}Arquitectura}{15}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Diagramas}{16}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Diagrama de casos de uso}{17}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Diagrama de componentes}{17}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Diagrama de Bases de Datos \textit {Entidad Relación} }{18}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Diagrama de Clases }{19}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Diagramas de Secuencia:}{20}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Diagramas de estados}{37}{section.6.6}%
+\contentsline {chapter}{\numberline {7}Propuesta de pantallas (Mapa de sitio) }{40}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Prototipo en Figma}{42}{chapter.8}%
+\contentsline {part}{III\hspace {1em}Identidad}{44}{part.3}%
+\contentsline {chapter}{\numberline {9}Identidad}{45}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Nuestra marca:}{45}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Logo del juego}{46}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Paleta de color del juego}{47}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Tipografia del juego}{47}{section.9.4}%
